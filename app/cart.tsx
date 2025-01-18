@@ -44,7 +44,7 @@ function Cart() {
 
         {cart?.items.map((item: { foodItem: FoodItem, quantity: number }) => (
           <View key={item.foodItem._id} className="item border-2 border-blue-200 rounded-2xl w-50px">
-            <View className="  flex flex-row px-2 py-4">
+            <View className="  flex flex-row px-2 py-3">
               <Image
                 source={{uri: item.foodItem.imageUrl}}
                 style={{width: 100, height: 100}}
