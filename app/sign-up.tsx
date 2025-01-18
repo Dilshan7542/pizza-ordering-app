@@ -196,9 +196,6 @@ const styles = StyleSheet.create({
     marginBottom: 20,
     width: 250,
     borderRadius: 30,
-
-  }, signInText: {
-    color: "white"
   }
 
 });
