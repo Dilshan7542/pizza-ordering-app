@@ -20,13 +20,13 @@ function Header() {
 
         <TouchableOpacity>
           <Link href={"/cart"}>
-            <Text className={"text-xl font-bold text-sky-100"}>Cart </Text>
+            <Text className={"text-xl font-bold text-sky-100"}>Carts </Text>
           </Link>
         </TouchableOpacity>
 
         <TouchableOpacity>
           <Link href={"/order"}>
-            <Text className={"text-xl font-bold text-sky-100"}>Orders </Text>
+            <Text className={"text-xl font-bold text-sky-100"}>Order </Text>
           </Link>
         </TouchableOpacity>
         <TouchableOpacity  onPress={logoutOnPress}>
