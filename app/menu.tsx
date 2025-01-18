@@ -29,13 +29,13 @@ function Menu() {
         <View className="main-category w-full flex flex-row gap-3 items-center
       justify-center" style={{flex: 1}}>
           <TouchableOpacity>
-            <Text className={"text-3xl"}>Pizza </Text>
+            <Text className={"text-3xl"}>Pizza. </Text>
           </TouchableOpacity>
           <TouchableOpacity>
             <Text className={"text-3xl"}>Rice </Text>
           </TouchableOpacity>
           <TouchableOpacity>
-            <Text className={"text-3xl"}>Pasta </Text>
+            <Text className={"text-3xl"}>Pasta. </Text>
           </TouchableOpacity>
         </View>
         <View className="sub-category mt-4 w-full flex flex-row gap-3 justify-between
