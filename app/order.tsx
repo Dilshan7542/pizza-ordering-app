@@ -54,7 +54,7 @@ const styles = StyleSheet.create({
   orderContainer: {
     marginBottom: 20,
     padding: 10,
-    borderColor: '#ccc',
+    borderColor: '#fff',
     borderWidth: 1,
     borderRadius: 5,
   },
